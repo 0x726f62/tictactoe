@@ -1,0 +1,11 @@
+obj/
+bin/
+doxygen/
+doc/
+*~
+*.cbp
+*.depend
+*.layout
+*.xml
+*.out
+
